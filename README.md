@@ -7,6 +7,7 @@
 | [0088-merge-sorted-array](https://github.com/Bhavana-376/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavana-376/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Bhavana-376/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0792-binary-search](https://github.com/Bhavana-376/LeetCode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bhavana-376/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Bhavana-376/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
