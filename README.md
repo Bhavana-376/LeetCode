@@ -6,6 +6,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bhavana-376/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavana-376/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Bhavana-376/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bhavana-376/LeetCode/tree/master/0088-merge-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Bhavana-376/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
