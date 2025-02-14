@@ -37,4 +37,20 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Bhavana-376/LeetCode/tree/master/0792-binary-search) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Bhavana-376/LeetCode/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Bhavana-376/LeetCode/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Bhavana-376/LeetCode/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Bhavana-376/LeetCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
