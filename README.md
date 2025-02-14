@@ -36,11 +36,13 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Bhavana-376/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/Bhavana-376/LeetCode/tree/master/0792-binary-search) |
 ## Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Bhavana-376/LeetCode/tree/master/0101-symmetric-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Bhavana-376/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -53,4 +55,9 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Bhavana-376/LeetCode/tree/master/0101-symmetric-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Bhavana-376/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Bhavana-376/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
